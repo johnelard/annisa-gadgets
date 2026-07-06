@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f5f3ff"/>
+  <rect x="280" y="95" width="240" height="410" rx="40" ry="40" fill="#111827"/>
+  <rect x="310" y="140" width="180" height="320" rx="24" ry="24" fill="#ffffff"/>
+  <rect x="330" y="168" width="140" height="90" rx="14" ry="14" fill="#8b5cf6"/>
+  <rect x="330" y="300" width="140" height="95" rx="12" ry="12" fill="#ddd6fe"/>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#111827">iPhone 13 mini</text>
+</svg>
